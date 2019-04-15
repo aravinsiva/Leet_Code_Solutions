@@ -1,3 +1,3 @@
 # Leet_Code_Solutions
-Soluitions to a wide variety of leet code problems 
+Solutions to a wide variety of leet code problems 
 
